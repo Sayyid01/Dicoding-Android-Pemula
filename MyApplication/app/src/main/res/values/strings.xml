@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">DJI Quadcopter Information</string>
+    <string name="drones_name">Nama Drone</string>
+    <string name="deskripsi">Deskripsi</string>
+    <string name="detail">Detail</string>
+    <string name="about">About</string>
+    <string name="myName">Naufal Sayyid Furqoon</string>
+    <string name="myGmail">naufalsayyid1@gmail.com</string>
+</resources>
